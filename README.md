@@ -12,4 +12,3 @@ Welcome to the **GenAI Projects and Learning Resources** repository! This reposi
   
 - **Chatbot Using LangGraph**: A project that involves creating a chatbot using the LangGraph library. This includes the script `chatbot_using_langgraph.ipynb`.
 
-## Getting Started
