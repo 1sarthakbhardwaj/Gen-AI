@@ -13,8 +13,3 @@ Welcome to the **GenAI Projects and Learning Resources** repository! This reposi
 - **Chatbot Using LangGraph**: A project that involves creating a chatbot using the LangGraph library. This includes the script `chatbot_using_langgraph.ipynb`.
 
 ## Getting Started
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/GenAI-Projects.git
-   cd GenAI-Projects
