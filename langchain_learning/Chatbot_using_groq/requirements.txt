@@ -1,0 +1,6 @@
+langchain-core
+langgraph>=0.2.28
+langchain-groq
+streamlit
+python-dotenv
+gradio
