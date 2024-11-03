@@ -12,3 +12,4 @@ new_env/
 # VS Code settings
 .vscode/
 
+.gitignore
