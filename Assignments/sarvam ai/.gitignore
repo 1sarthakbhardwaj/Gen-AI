@@ -7,14 +7,8 @@ __pycache__/
 # Virtual environment
 env/
 .env
-
-# Logs
-logs/
-*.log
-
+new_env/
 
 # VS Code settings
 .vscode/
 
-# MacOS files
-.DS_Store
