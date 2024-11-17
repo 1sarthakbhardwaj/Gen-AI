@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Gradio auto-generated files
+.gradio/
+
+# Local environment variables
+.env
+
+# VSCode settings folder
+.vscode/
+
+# Ignore Jupyter notebook checkpoints (if using)
+.ipynb_checkpoints/
