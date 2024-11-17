@@ -1,9 +1,0 @@
-# Ignore the virtual environment
-venv/
-.gradio/
-__pycache__/
-*.env
-
-# Ignore system files
-.DS_Store
-Thumbs.db
